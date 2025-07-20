@@ -13,9 +13,19 @@ A bit about me: I'm Italian, living in California! 🇮🇹 🇺🇸
 
 ---
 
+<div align="center">
+<br>
+
+  <a href="#installation"><kbd> <br> Me <br> </kbd></a>&ensp;&ensp;
+  <a href="#screenshots"><kbd> <br> Featured <br> </kbd></a>&ensp;&ensp;
+  <a href="#keybindings"><kbd> <br> Github Stats <br> </kbd></a>&ensp;&ensp;
+
+</div><br><br>
+
 #### 🛠️ My Toolkit & Interests
 
 <!-- Skill Badges -->
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
@@ -28,7 +38,7 @@ A bit about me: I'm Italian, living in California! 🇮🇹 🇺🇸
 ![Teaching](https://img.shields.io/badge/Teaching-purple?style=for-the-badge&logo=googleclassroom&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Business Processes](https://img.shields.io/badge/Business_Processes-blueviolet?style=for-the-badge)
-
+</div><br><br>
 ---
 
 #### 📊 GitHub Stats
