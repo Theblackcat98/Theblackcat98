@@ -75,5 +75,7 @@ I'll be highlighting some of my favorite projects here soon! Stay tuned!
 - 📧 Best way to reach me: GitHub DM
 
 <p align="center">
+  
   Visitors: <img src="https://profile-counter.glitch.me/theblackcat98/count.svg" />
+  
 </p>
