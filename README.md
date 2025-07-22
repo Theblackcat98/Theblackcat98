@@ -6,10 +6,9 @@ A bit about me: I'm Italian, living in California! 🇮🇹 🇺🇸
 
 #### 🚀 What I'm Up To
 
-- 🔭 Working on: 🌐 My own website
-- 🌱 Learning: 💻 Web development, 🐍 Python, 🤖 AI
-- 👯 Collaborating on: 🤝 Open-source projects, 📚 Educational content, ⚙️ Automation
-- 🤔 Seeking help with: 🧠 Agentic processes
+https://github.com/Theblackcat98/ASCII-Everything
+https://github.com/Theblackcat98/Awesome-AI-Python-Scripts
+https://github.com/Theblackcat98/Text-Adventure-TUI
 
 ---
 
@@ -38,6 +37,7 @@ A bit about me: I'm Italian, living in California! 🇮🇹 🇺🇸
 ![Teaching](https://img.shields.io/badge/Teaching-purple?style=for-the-badge&logo=googleclassroom&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Business Processes](https://img.shields.io/badge/Business_Processes-blueviolet?style=for-the-badge)
+
 </div><br><br>
 ---
 
