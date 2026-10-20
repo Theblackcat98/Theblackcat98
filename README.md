@@ -64,7 +64,6 @@ Personal, Git-native knowledge library — a Markdown archive with a Hugo static
 - [TheBlackCat](https://github.com/Theblackcat98/TheBlackCat) — Personal, Git-native knowledge library — a Markdown archive with a Hugo static site as the view
 - [blackcatdesigns](https://github.com/Theblackcat98/blackcatdesigns) — Personal portfolio and blog — Next.js 15, React, Tailwind, with Markdown-driven posts
 - [github-stars](https://github.com/Theblackcat98/github-stars) — My GitHub stars, kept up to date by a daily workflow
-- [quickdash](https://github.com/Theblackcat98/quickdash) — A clean, configurable web UI for browsing a GitHub user's starred repos — Pages-ready
 - [Online-Tools](https://github.com/Theblackcat98/Online-Tools) — Small collection of browser-based utilities hosted on GitHub Pages
 - [Theblackcat98](https://github.com/Theblackcat98/Theblackcat98) — This profile repository — the index you're reading
 
