@@ -39,9 +39,7 @@ Personal, Git-native knowledge library — a Markdown archive with a Hugo static
 - [skillman](https://github.com/Theblackcat98/skillman) — Terminal skill manager for opencode: browse, preview, validate, edit and install skills
 - [llamacpp-runner](https://github.com/Theblackcat98/llamacpp-runner) — llama-deck: keyboard-first TUI and CLI for a managed llama.cpp server, with presets and live telemetry
 - [CL-AI](https://github.com/Theblackcat98/CL-AI) — Minimal CLI/TUI that turns a local LLM into bash command suggestions
-- [mermaidCLI](https://github.com/Theblackcat98/mermaidCLI) — Render Mermaid diagrams as ASCII art in the terminal
-- [ImageToAscii](https://github.com/Theblackcat98/ImageToAscii) — Convert images to colored ASCII art in the terminal
-- [ASCII-Everything](https://github.com/Theblackcat98/ASCII-Everything) — A collection of Python and JavaScript tools and programs to play with the terminal
+- [ASCII-Everything](https://github.com/Theblackcat98/ASCII-Everything) — A collection of Python and JavaScript tools and programs to play with the terminal — now the single ASCII hub, with ImageToAscii and mermaidCLI merged into it
 - [Text-Adventure-TUI](https://github.com/Theblackcat98/Text-Adventure-TUI) — LLM-powered terminal text-adventure engine with branching narratives and persistent saves
 - [cardputer-voice](https://github.com/Theblackcat98/cardputer-voice) — M5Stack Cardputer push-to-talk voice client for a local llama.cpp server; all STT/LLM/TTS runs on your own hardware
 - [opencode-session-ext](https://github.com/Theblackcat98/opencode-session-ext) — Linux fork of the OpenCode Sessions Raycast extension — browse, search, and resume OpenCode sessions in a terminal
@@ -78,6 +76,8 @@ Personal, Git-native knowledge library — a Markdown archive with a Hugo static
 Kept for reference; no longer maintained.
 - [PsycheScan](https://github.com/Theblackcat98/PsycheScan) — Structured notes on DSM-5 disorders and diagnostic criteria
 - [image-to-stl](https://github.com/Theblackcat98/image-to-stl) — Convert images to STL meshes from the command line
+- [ImageToAscii](https://github.com/Theblackcat98/ImageToAscii) — Merged into ASCII-Everything (the code lives in its ImageToAscii/ folder); this standalone repo is archived
+- [mermaidCLI](https://github.com/Theblackcat98/mermaidCLI) — Merged into ASCII-Everything (the code lives in its mermaidcli/ folder); this standalone repo is archived
 - [ai-torture-chamber](https://github.com/Theblackcat98/ai-torture-chamber) — Fork of terrafying/ai-torture-chamber
 - [termite](https://github.com/Theblackcat98/termite) — Generative UI in your terminal (fork of shobrook/termite)
 - [Dextop](https://github.com/Theblackcat98/Dextop) — Unlock the hidden Samsung DeX and desktop capabilities of Android (fork of NarYuki/Dextop)
