@@ -55,9 +55,7 @@ Personal, Git-native knowledge library — a Markdown archive with a Hugo static
 - [otg-bot](https://github.com/Theblackcat98/otg-bot) — URL keeper — a Bun service that ingests links from bookmarks and RSS feeds, stores clean text plus raw snapshots in SQLite, and makes everything searchable
 
 ### Python / AI scripts
-- [Awesome-AI-Python-Scripts](https://github.com/Theblackcat98/Awesome-AI-Python-Scripts) — Collection of OpenWebUI functions and plugins that extend LLM behaviour inside OpenWebUI
-- [AgenticPipelineCreator](https://github.com/Theblackcat98/AgenticPipelineCreator) — Declarative JSON framework for orchestrating LLM and tool workflows without writing Python
-- [Website-Analyzer](https://github.com/Theblackcat98/Website-Analyzer) — Clone and analyze a site, extract brand and business specs, and generate HTML summaries with a local LLM
+- [Awesome-AI-Python-Scripts](https://github.com/Theblackcat98/Awesome-AI-Python-Scripts) — Collection of OpenWebUI functions and plugins that extend LLM behaviour inside OpenWebUI — now also home to AgenticPipelineCreator and Website-Analyzer, merged into it.
 - [IG-Post-Agent](https://github.com/Theblackcat98/IG-Post-Agent) — Multi-agent Instagram post generator (AutoGen + Ollama): slide themes, caption, and hashtags
 
 ### Web, site, and profile
@@ -77,6 +75,8 @@ Kept for reference; no longer maintained.
 - [image-to-stl](https://github.com/Theblackcat98/image-to-stl) — Convert images to STL meshes from the command line
 - [ImageToAscii](https://github.com/Theblackcat98/ImageToAscii) — Merged into ASCII-Everything (the code lives in its ImageToAscii/ folder); this standalone repo is archived
 - [mermaidCLI](https://github.com/Theblackcat98/mermaidCLI) — Merged into ASCII-Everything (the code lives in its mermaidcli/ folder); this standalone repo is archived
+- [AgenticPipelineCreator](https://github.com/Theblackcat98/AgenticPipelineCreator) — Merged into Awesome-AI-Python-Scripts (the code lives in its AgenticPipelineCreator/ folder); this standalone repo is archived
+- [Website-Analyzer](https://github.com/Theblackcat98/Website-Analyzer) — Merged into Awesome-AI-Python-Scripts (the code lives in its Website-Analyzer/ folder); this standalone repo is archived
 - [ai-torture-chamber](https://github.com/Theblackcat98/ai-torture-chamber) — Fork of terrafying/ai-torture-chamber
 - [termite](https://github.com/Theblackcat98/termite) — Generative UI in your terminal (fork of shobrook/termite)
 - [Dextop](https://github.com/Theblackcat98/Dextop) — Unlock the hidden Samsung DeX and desktop capabilities of Android (fork of NarYuki/Dextop)
